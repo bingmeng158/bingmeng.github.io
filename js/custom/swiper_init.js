@@ -1,0 +1,1 @@
+var swiper=new Swiper("#ark-swiper-container",{direction:"horizontal",loop:!0,grabCursor:!0,updateOnWindowResize:!0,slidesPerView:1,spaceBetween:30,mousewheel:!0,pagination:{el:".swiper-pagination",clickable:!0},autoplay:{delay:3e3,disableOnInteraction:!0}});
